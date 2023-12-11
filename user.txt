@@ -1,0 +1,6 @@
+1 admin password Administrator
+2 hammad pass CampusDirector
+4 tahir teatime Teacher
+5 asad pass Manager
+6 zaid pass Manager
+7 abdullah pass Manager
